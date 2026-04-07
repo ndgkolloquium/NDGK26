@@ -6,11 +6,11 @@
 <!--Head //---------------------------------------------------------------------------->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Representation Theory Villa Denis 2024">
-<meta name="keywords" content="Representation Theory Villa Denis 2024">
+<meta name="description" content="Norddeutsches Gruppentheorie-Kolloquium 2026">
+<meta name="keywords" content="Norddeutsches Gruppentheorie-Kolloquium 2026">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">    
-<title>Representation Theory at the Villa Denis 2026</title>
+<title>Norddeutsches Gruppentheorie-Kolloquium 2026</title>
 <!-- Mathjax -->
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
@@ -41,8 +41,8 @@
                 <a href="programme.html" class="nav-item nav-link">Programme</a>
                 <a href="participants.html" class="nav-item nav-link">Participants</a>
                 <a href="directions.html" class="nav-item nav-link active">Directions</a>
-                <a href="photos.html" class="nav-item nav-link">Photos</a>
-                <a href="/reptheoryvilladenis.github.io/" class="nav-item nav-link">Back to Main Page</a>     
+                <!--- <a href="photos.html" class="nav-item nav-link">Photos</a> --->
+                <!--- <a href="/reptheoryvilladenis.github.io/" class="nav-item nav-link">Back to Main Page</a>   --->
             </div>
             <div class="navbar-nav ml-auto">
                  <a href="http://www.uni-kl.de/startseite/"><img class="head" width="130px"  src="Logo_RPTU_blau.png"​ alt="Logo TU KL"></a>
@@ -53,7 +53,7 @@
 <!-- Navigation -->   
 
 			
-<!--To Frankenstein //---------------------------------------------------------------------------->
+<!--To Uni //---------------------------------------------------------------------------->
 <!--About //---------------------------------------------------------------------------->     
 
   <div class="container">
@@ -64,24 +64,17 @@
  	 <br>
  
             <p class="text-justify">
- The meeting takes place at the Conference Center <b><a href="https://rptu.de/ueber-die-rptu/stiften-und-foerdern/tagungszentrum-villa-denis">Villa Denis</a></b> of the TU Kaiserslautern,
- located in the hamlet of <b>Diemerstein</b>  in the Ortsgemeinde <b>Frankenstein</b>. <br><br><br>
- 
- To reach the Villa Denis by train or by car you need to travel to <strong>Frankenstein (Pfalz)</strong>.
- See this <a href="https://www.uni-kl.de/fileadmin/prum/webred/Leben_Kultur/Anfahrtsskizze_Villa-Denis.pdf"><strong>map</strong></a>.<br>
-                If you experience train problems and need a lift from Kaiserslautern/Neustadt/Hochspeyer/Enkenbach-Alsenborn/etc, let us know. We will send you a phone number per e-mail to get in touch with us.
-
-                
-                <br><br>
-
-    
-<b>Train from KL</b>: it is a 10-minute ride on the S-Bahn from Kaiserslautern Hauptbahnhof to Frankenstein (Pfalz).
-Then from the station in Frankenstein, it's a 10-minute walk to Diemerstein.
-</p>                
+ The meeting takes place at the <b><a href="https://math.rptu.de/">Department of Mathematics</a></b> of the RPTU Kaiserslautern-Landau in Kaiserslautern, located in the building 48 in Gottlieb-Daimler-Straße 48. <br> <br>
+ It is about a 30 minutes walk from Kaiserslautern Main Station and 40 minutes from downtown.<br>
+ The bus lines 105 and 115 travel between Kaiserslautern Main Station and the math department, stop "Kaiserslautern, Uni Zentral", and take about 10 minutes. More information is available through the <b><a href="https://www.vrn.de/index.html">VRN</a></b> website. 
+            
+               
  <br><br><br><br>
  
 <center> 
-<iframe width="90%" height="400px" frameBorder="0" src="https://umap.openstreetmap.fr/de/map/frankenstein-to-villa-denis_145031?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=354241#15/49.4401/7.9669"></iframe><p><a href="https://umap.openstreetmap.fr/de/map/frankenstein-to-villa-denis_145031">Full Map</a></p>
+<!--- <iframe width="90%" height="400px" frameBorder="0" src="https://umap.openstreetmap.fr/de/map/frankenstein-to-villa-denis_145031?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=354241#15/49.4401/7.9669"></iframe><p><a href="https://umap.openstreetmap.fr/de/map/frankenstein-to-villa-denis_145031">Full Map</a></p>
+ --->
+<iframe width="90%" height="400px" frameBorder="0" src="https://www.openstreetmap.org/way/45425035"></iframe><p><a href="https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=49.4355354%2C7.7661156%3B49.4234798%2C7.7538923#map=15/49.42915/7.76012&layers=N">Full Map</a></p>
 </center>
 <br>
         </div>
